@@ -18,9 +18,8 @@ def raw_json():
     return jsonify(cursor)
 
 # response = requests.get("http://192.168.111.132:5000/json_obj")
+res = requests.get("http://192.168.111.132:5000/json_obj")
+print(res.status_code)
 
 if __name__ == "__main__":
     app.run(host='0.0.0.0', debug=True)
-    res = requests.get("http://192.168.111.132:5000/json_obj")
-    print(res.status_code)
-
