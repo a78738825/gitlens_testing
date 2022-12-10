@@ -1,0 +1,14 @@
+export profile:
+
+###########################
+## ayushkmr2009@gmail.com #
+###########################
+
+    IMPORT LINK:
+ vscode://profile-github/https%3A//gist.github.com/d97fbf6960f2bb42e2eaf9d170474dc5
+ ---> How to import all settings and extensions ==<>> Just paste above link in browser
+
+    GITHUB LINK:
+ https://gist.github.com/ayushkmr2009/665bcfa67034e288b76449f000c60185
+
+
